@@ -19,6 +19,7 @@ Using **pandas**, this analysis answers two main questions:
 ### Prerequisites
 - Python 3.x
 - pandas
+- Numpy
 
 ### Running the Analysis
 1. Clone this repository.
